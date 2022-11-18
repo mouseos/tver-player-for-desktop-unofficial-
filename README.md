@@ -3,9 +3,13 @@
 python3,yt-dlp  
 (自分でビルドする場合)  
 nodejs electron
-##ビルド
+## ビルド
 ```
- node run make
+ npm run make
+```
+## 直接実行
+```
+ npm run start
 ```
 ## 使い方
 esc=戻る   
