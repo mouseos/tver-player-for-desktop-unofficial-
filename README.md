@@ -3,6 +3,10 @@
 python3,yt-dlp  
 (自分でビルドする場合)  
 nodejs electron
+##ビルド
+```
+ node run make
+```
 ## 使い方
 esc=戻る   
 1-7チャンネル（ストリーミングのとき）  
