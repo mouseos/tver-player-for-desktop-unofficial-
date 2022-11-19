@@ -2,7 +2,7 @@
 ## 依存
 python3,yt-dlp  
 (自分でビルドする場合)  
-nodejs electron
+nodejs electron electron-forge
 ## ビルド
 ```
  npm run make
